@@ -1,3 +1,3 @@
 # SLTN
-Official repo for [Spectral Learning-based Transformer Network for Remote Sensing Degraded Images Spectral Super-resolution] \\
+Official repo for [Spectral Learning-based Transformer Network for Remote Sensing Degraded Images Spectral Super-resolution] \n
 Contains the code and the dataset used in the Spectral Learning-based Transformer Network for Remote Sensing Degraded Images Spectral Super-resolution .
